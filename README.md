@@ -53,7 +53,7 @@ Setting UP HTML files:
 1.GO to src/app.js
 
 
-2.Edit The absolutes path of each resSendfile Function according to the location of the templates of the HTML files.
+2.Edit The absolutes path of each res.Sendfile Function according to the location of the templates of the HTML files.
 
 
 
