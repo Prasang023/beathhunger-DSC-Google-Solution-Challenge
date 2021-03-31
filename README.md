@@ -46,6 +46,9 @@ To Set Up a dumy Database For Application Purpose :
 
 
 You can either use mongoDB compass or run on global Servers. You just need to edit conn.js File
+You Can Also Use Our SAMPLE DATABASE BY REPLACING URI STRING:
+const uri = "mongodb+srv://beathunger3435:<password>@cluster0.wnwsh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 
 
 Setting UP HTML files:
