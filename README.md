@@ -48,9 +48,17 @@ To Set Up a dumy Database For Application Purpose :
 You can either use mongoDB compass or run on global Servers. You just need to edit conn.js File
 
 
+Setting UP HTML files:
+
+1.GO to src/app.js
 
 
-To run the server locally: npm run dev
+2.Edit The absolutes path of each resSendfile Function according to the location of the templates of the HTML files.
 
 
-Open your browser and open : localhost:3000
+
+
+TO RUN THE SERVER LOCALLY: npm run dev
+
+
+OPEN YOUR BROWSER AND OPEN: localhost:3000
