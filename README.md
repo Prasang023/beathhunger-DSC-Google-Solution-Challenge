@@ -42,7 +42,7 @@ To Set Up a dumy Database For Application Purpose :
 
 
 4.Enter Database Name
-
+Use username and password of mongodb atlas
 
 
 You can either use mongoDB compass or run on global Servers. You just need to edit conn.js File
@@ -61,7 +61,7 @@ Setting UP HTML files:
 
 
 
-TO RUN THE SERVER LOCALLY: npm run dev
+TO RUN THE SERVER LOCALLY:  npm run dev
 
 
 OPEN YOUR BROWSER AND OPEN: localhost:3000
